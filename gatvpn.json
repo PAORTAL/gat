@@ -8,17 +8,7 @@
 
 {
          //server-1
-         "config": "vmess://eyJhZGQiOiJ3d3cucHZpY21lbWJlci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnRhbDk5OS5vbmxpbmUiLCJpZCI6ImFiNzlkZjhjLTVmZTQtNDg0NC1iNzA4LTNhOTkxZmVmNmI1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiU0ctVHJ1ZU5vUHJvLUZSRUUtMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-     
-},
-{
-        //server-2
-      "config": "vmess://eyJhZGQiOiIxMDQuMTguMTguMjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZy50YWw5OTkub25saW5lIiwiaWQiOiJhYjc5ZGY4Yy01ZmU0LTQ4NDQtYjcwOC0zYTk5MWZlZjZiNTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlNHLUR0YWNOb1Byby1GUkVFLTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-      
-      },
-         {
-         //server-3
-         "config": "vmess://eyJhZGQiOiJzZy50YWw5OTkub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFiNzlkZjhjLTVmZTQtNDg0NC1iNzA4LTNhOTkxZmVmNmI1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IlNHLUFpc1BsYXktRlJFRS0wMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+         "config": "jHy7c8sTN00V2HMmNzPsDqO0Ps6N3xOx7S3XrWwCYu0wEMhi2gwFJqLgDiL+a6pOYzj9y8KnButQzzdmXSiOejXWQGaECIMg55yxfFNhAm/6tHp9/lajSa71t2bx+/6XjR2cJKgY+mYXyGAyoxaqOm2AwVMrr8J5azBRGLM4MMVKlTiBg9/7eeudtGpQUIRCvxr7FFpswqvYz7+Y0tAh42//TahdoWXdHLdipZGVVfnZ33p2lsDzgzu/2sSLZQ9mMc3fFfeyN1u3UZCuDc2CRxnEJhLjiUDSwo4je8Sp1VS+HcN5sP8ijaFgup7qbyaHxyOz7D/2nGb1/vaRhOsRWzd43gFavSyJGRxmXQHFcLl96hSLO5vwCfI0hgHltH/i/zIkVQvQspJTt0o5l6vBuPTjGRUu6eXTf6xwhl5q1lNLZf+9+Q9eoVYqIEC9GIfn"
      
 }
       
