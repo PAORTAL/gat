@@ -8,32 +8,18 @@
 
 {
          //server-1
-         "config": "tkSN2qFsEa1BrZpx/IC4NFpCMPy/xwZeWnbEMT+I2n20eN/kjO+GffsUOdslRm5P0s4LZtP6BHeEPBpxG1U0CBhPVJAMQ4Syoo+ohrE7mB3aVN2X6iFhZwKfXd4pHwi87K3dMiZFX1mr6EJ1eiEGLfkGu/xZrOTHRUS5BLk9tlYBOUGyxHi7aF+UcL/SURfFtQiENjPb46/zF4jPDkatrw=="
+         "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@rhea.net:80?path=%2Fvless&security=none&encryption=none&host=zcom.tal999.online&type=ws#TH-TrueNoPro-FREE-01"
      
 },
 {
         //server-2
-      "config": "Rq8vhoTNcgfPsXaH5zz1pzp3R20Hv4lcfV2AcYHPjaXh+5JY/0ghRgWdYet82EJ8NFCuvnC9L+g9lz2fnlL/pymG+yaKuKBeEb2Oy/mv8wpEt5WI2X6YoyZTcoCNcrDeCj8L5Dt8S37WIEfKmQ3hU9mt0YHuTmqITnUxhGQz2hGc2bM+fGUyM+RDYiOSg5PfVTAKPqbRYJYYuYWwuMk9zOkvqE4="
+      "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@104.18.18.210:80?path=%2Fvless&security=none&encryption=none&host=zcom.tal999.online&type=ws#TH-DtacNoPro-FREE-01"
       
       },
          {
          //server-3
-         "config": "2WJQJ6371p3MOmN4Jqm1WLCdvzl6EIk63js6lpjKk+cm+9Ll1L/OBQecWB1yemtVGkXax/MFyTeELvYv2KGLWEAryt2/Rx6Txls7T/7JXNeN4aDJ9dKFdfanvgurD9bWgWA6Ud+PJAtV5tZnB2IJ9E3KLplcaGQW0jJPPOFmyeLxJ6M7fNaEep70kg2UX661MA45lECsUA2ejm8dXnyAVdNHQ2mETPXM683G2Q=="
+         "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@zcom.tal999.online:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=www.speedtest.net#TH-AisPlay-FREE-01"
      
-},
-{
-        //server-4
-      "config": "i5usOMMdITeiKiq3g8ck2UL1HfS6A9mkfzJxfcDvA6RijVCYfXgsEofXB0YhRSWe6ClNCyUgoyaHTIlecpxysUAtPXnbZwdN1aoS6Ljh8Pq61+JR4KbKktHT5GLMqvC8lz3h2IdzRyU0VCLN3uj9y9GcRDk+y8dTojoKqIFFQvMtUoKBMxHa5vBC26CNCu8KOhjxSmCVRDiWp0ExeYPdHTUFp9oq1wmf"
-      
-      },
-         {
-         //server-5
-         "config": "TZ6I5pH5ufNNNkVkXzh/+AyjlL6mX4sOyZKzzsfC0PoH35fBkLa+Gf0Kx1sQ1YHiB8pgCbWVWduflFXbl1UhHOaFWXXy4o3UoKG9DjRsKF81s6vt+v5QTZD8EjFSDVZspbQ7VyYXPC5i6DKWYB2KQuq3YO+/u74cCdWg+lAs2ff9f2jQ7oJFhyg5L7yqQ9C81noHQmwviDfDB2J45aPf4Q=="
-},
-{
-        //server-6
-      "config": "qyTmOWs+sGGG50aLd/YjnR7hYch49wKob/VZWQRtlgdGg2CmbGYvY9KYRALDCO1KEZP3T4pbCWtb6jUUGUh51/ses1ibEfZv7z0EBtfJ+4nD/kOsyy8vGvbbwf0vwLW7eNEKj3MutIhUkIiSNRrE4TFf+sq76FRrEm3iEQRB087/yVRMlFiQXpmRJjTgeaDupsiEY4aIfszOiVDWLrGEB/PyW7s="
-      
 }
       
 
