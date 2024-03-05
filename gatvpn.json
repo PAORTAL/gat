@@ -8,17 +8,17 @@
 
 {
          //server-1
-         "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@rhea.net:80?path=%2Fvless&security=none&encryption=none&host=zcom.tal999.online&type=ws#TH-TrueNoPro-FREE-01"
+         "config": "vmess://eyJhZGQiOiJ3d3cucHZpY21lbWJlci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLnRhbDk5OS5vbmxpbmUiLCJpZCI6ImFiNzlkZjhjLTVmZTQtNDg0NC1iNzA4LTNhOTkxZmVmNmI1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiU0ctVHJ1ZU5vUHJvLUZSRUUtMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
      
 },
 {
         //server-2
-      "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@104.18.18.210:80?path=%2Fvless&security=none&encryption=none&host=zcom.tal999.online&type=ws#TH-DtacNoPro-FREE-01"
+      "config": "vmess://eyJhZGQiOiIxMDQuMTguMTguMjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZy50YWw5OTkub25saW5lIiwiaWQiOiJhYjc5ZGY4Yy01ZmU0LTQ4NDQtYjcwOC0zYTk5MWZlZjZiNTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlNHLUR0YWNOb1Byby1GUkVFLTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
       
       },
          {
          //server-3
-         "config": "vless://64cfbdf8-0e95-4b51-b188-5c15e5df4d1c@zcom.tal999.online:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=www.speedtest.net#TH-AisPlay-FREE-01"
+         "config": "vmess://eyJhZGQiOiJzZy50YWw5OTkub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFiNzlkZjhjLTVmZTQtNDg0NC1iNzA4LTNhOTkxZmVmNmI1NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IlNHLUFpc1BsYXktRlJFRS0wMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
      
 }
       
